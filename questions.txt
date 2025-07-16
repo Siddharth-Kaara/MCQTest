@@ -1,0 +1,159 @@
+Section 1: Advanced Sales Judgment & B2B Selling
+1.	A prospect visited your landing page twice, opened your email, but didn’t reply. What should your follow-up email include?
+A. “Just following up” with the same pitch
+B. A calendar invite
+C. A relevant insight, new angle, or case study
+D. A product demo video
+✅ Answer: C
+2.	You’re targeting CIOs in the retail industry. What’s the best cold email opener?
+A. “Hope you’re doing well.”
+B. “I’m reaching out to pitch our AI solution.”
+C. “Saw your recent digital transformation announcement—impressive.”
+D. “Let me introduce myself.”
+✅ Answer: C
+3.	A key buyer replies: “Looks interesting, but we don’t have budget right now.” What’s the best move?
+A. Drop them from the pipeline
+B. Ask when budget might open up
+C. Offer a free trial immediately
+D. Ask who controls budget
+✅ Answer: B
+4.	Which of the following shows buying intent in a B2B buyer journey?
+A. Liking your post on LinkedIn
+B. Subscribing to your newsletter
+C. Downloading a pricing sheet or case study
+D. Visiting your blog once
+✅ Answer: C
+5.	What’s the best way to differentiate Kaara’s AI solutions in a crowded market during outreach?
+A. Emphasize cost savings
+B. Focus on platform features
+C. Anchor the message on business impact and customer success
+D. Mention competitors' weaknesses
+✅ Answer: C
+________________________________________
+🔸 Section 2: Strategic Prospecting & Research
+6.	Which signals would most strongly indicate a good outbound target? (Select two)
+A. Increased hiring for analytics roles
+B. Multiple locations in Tier-2 cities
+C. Recent funding or expansion news
+D. Low social media engagement
+✅ Answer: A, C
+7.	You need to find the decision-maker at a mid-sized tech company with no contacts listed. What’s your first move?
+A. Search by job title on LinkedIn and use email finders
+B. Send a message to the company’s “info@” email
+C. Call the reception number
+D. Comment on their company posts
+✅ Answer: A
+8.	Which of the following companies is least likely to benefit from AI-driven demand forecasting?
+A. Online grocery platform
+B. Boutique consulting firm
+C. Omnichannel fashion retailer
+D. National logistics chain
+✅ Answer: B
+9.	Which of the following traits matter most in defining an Ideal Customer Profile (ICP)?
+A. Number of employees and office locations
+B. Tech stack, pain points, and growth trajectory
+C. Social media following
+D. Brand value
+✅ Answer: B
+10.	You’ve found a lead with the right title and industry, but their company hasn't posted any updates in a year. What do you do?
+A. Proceed with outreach—titles matter more
+B. Skip it—no activity signals low relevance
+C. Research more to confirm business health
+D. Send a message to gauge interest
+✅ Answer: C
+________________________________________
+🔸 Section 3: Marketing Intelligence & Funnel Strategy
+11.	Which KPI best indicates lead quality from a campaign?
+A. Open rate
+B. Click-through rate
+C. SQL-to-opportunity conversion rate
+D. Unsubscribe rate
+✅ Answer: C
+12.	What does “intent-based outreach” mean?
+A. Reaching out based on job title
+B. Contacting based on recent buying signals or activity
+C. Mass emailing based on industry
+D. Retargeting based on geolocation
+✅ Answer: B
+13.	What’s the most effective email CTA in a first-touch B2B email?
+A. “Would you like to schedule a quick call?”
+B. “Let me know your feedback.”
+C. “I’d love to connect sometime.”
+D. “Here’s our brochure.”
+✅ Answer: A
+14.	Which of these tactics improves email deliverability?
+A. Using emojis in the subject line
+B. Personalizing the opening line and keeping link count low
+C. Attaching a PDF
+D. Sending from a shared mailbox
+✅ Answer: B
+15.	A/B testing a subject line with “free trial” versus “case study” will help you measure:
+A. Open rate difference
+B. Conversion rate
+C. Revenue per lead
+D. Product feedback
+✅ Answer: A
+________________________________________
+🔸 Section 4: Tools, Tech, and Digital Awareness
+16.	Which tool helps verify the accuracy of a work email address?
+A. Canva
+B. Hunter.io
+C. SEMrush
+D. Trello
+✅ Answer: B
+17.	Which CRM feature is most valuable in a demand generation role?
+A. Deal forecasting
+B. Lead scoring and activity tracking
+C. Task management
+D. Email syncing
+✅ Answer: B
+18.	What is a common reason cold emails land in spam?
+A. No unsubscribe option
+B. Short subject lines
+C. Sent during work hours
+D. Too few links
+✅ Answer: A
+19.	LinkedIn Sales Navigator allows you to:
+A. Send InMail to anyone without limits
+B. Automatically extract emails
+C. Create targeted lead lists using filters like department size
+D. Run ads to specific personas
+✅ Answer: C
+20.	What does “multi-threading” mean in B2B sales?
+A. Following up with multiple emails in a day
+B. Involving multiple stakeholders in the buying process
+C. Using different communication channels
+D. Running parallel campaigns
+✅ Answer: B
+________________________________________
+🔸 Section 5: Self-Management, Objection Handling, Resilience
+21.	A prospect says, “We already have a similar solution.” What’s the best response?
+A. “Thanks for letting me know.”
+B. “We’re different and better.”
+C. “May I ask what’s working well for you, and what’s not?”
+D. “Can I speak to your manager?”
+✅ Answer: C
+22.	You missed your outreach goal for the week. What’s the most constructive next step?
+A. Explain it was a tough week
+B. Analyze blockers and plan corrective action
+C. Blame bad leads
+D. Work overtime to catch up
+✅ Answer: B
+23.	What mindset leads to long-term sales success?
+A. Closing at all costs
+B. Listening, learning, and adapting to the customer
+C. Pushing hard until someone says yes
+D. Building rapport through small talk
+✅ Answer: B
+24.	Which of the following describes the Challenger Sales approach?
+A. Aggressively pursue the deal
+B. Focus on emotional connection
+C. Teach, tailor, and take control
+D. Let the customer do all the talking
+✅ Answer: C
+25.	You’ve reached out to 100 leads. 85 ignored you, 10 unsubscribed, 5 responded. What should you focus on?
+A. The failure rate
+B. Optimizing message and doubling down on what worked
+C. Reducing outreach
+D. Calling all 85 again immediately
+✅ Answer: B 

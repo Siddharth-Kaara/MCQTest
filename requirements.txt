@@ -1,0 +1,10 @@
+fastapi==0.104.1
+python-jose[cryptography]==3.4.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.6
+psycopg2-binary==2.9.10
+gunicorn==23.0.0
+uvicorn==0.24.0
+pydantic-settings==2.8.1
+SQLAlchemy==2.0.31
+python-dotenv==1.0.1 
