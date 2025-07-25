@@ -15,22 +15,38 @@ class Token(BaseModel):
 
 class TokenData(BaseModel):
     email: Optional[str] = None
+    session_id: Optional[str] = None
+
+class CorrectAnswer(BaseModel):
+    answer: str
+
+    class Config:
+        from_attributes = True
 
 class Question(BaseModel):
     id: int
     question_text: str
     options: str
+    correct_answers: List[CorrectAnswer]
 
     class Config:
-        orm_mode = True
+        from_attributes = True
 
 class Result(BaseModel):
-    score: Optional[int] = None
+    score: Optional[float] = None
     time_taken: Optional[int] = None
     submitted_at: Optional[datetime] = None
 
     class Config:
-        orm_mode = True
+        from_attributes = True
+
+class QuizState(BaseModel):
+    questions: List[Question]
+    quiz_started_at: datetime
+
+class QuizStatus(BaseModel):
+    quiz_started_at: datetime
+    submitted_at: Optional[datetime] = None
 
 class Student(BaseModel):
     id: int
@@ -41,9 +57,17 @@ class Student(BaseModel):
     tenth_percentage: Optional[float] = None
     twelfth_percentage: Optional[float] = None
     result: Optional[Result] = None
+    normalized_score: Optional[float] = None
+    session_id: Optional[str] = None
 
     class Config:
         from_attributes = True
 
-class StudentCreate(Student):
-    password: str 
+class StudentCreate(BaseModel):
+    roll_no: str
+    full_name: str
+    email: str
+    password: str
+    cgpa: float
+    tenth_percentage: float
+    twelfth_percentage: float

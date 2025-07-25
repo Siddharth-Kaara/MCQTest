@@ -10,10 +10,10 @@ class Settings(BaseSettings):
     
     # Database URL. Default is a local SQLite DB for development.
     # For production, this should be set to a PostgreSQL or other production DB URL.
-    DATABASE_URL: str = "sqlite:///./mcq_test.db"
+    DATABASE_URL: str
     
     # JWT Settings
-    SECRET_KEY: str = "a_very_secret_key_that_should_be_changed"
+    SECRET_KEY: str
     ALGORITHM: str = "HS256"
     ACCESS_TOKEN_EXPIRE_MINUTES: int = 60 # Token expiry time
 
@@ -23,4 +23,4 @@ class Settings(BaseSettings):
 
 
 # Create a single instance of the settings to be used throughout the application
-settings = Settings() 
+settings = Settings()
